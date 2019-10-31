@@ -11,9 +11,9 @@ Fetching Barron's 333 words from pdf &amp; their mnemonics from mnemonicdictiona
 
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PROJECT SCREEN SHOTS
 <p>
-<a href="url"><img src="https://user-images.githubusercontent.com/38793982/67941745-88648780-fc00-11e9-914f-c8d7708a8d19.PNG" align="left" height="300" width="400" ></a> <a href="url"><img src="https://user-images.githubusercontent.com/38793982/67941949-e42f1080-fc00-11e9-8dec-faaded79d84e.PNG" align="left" height="300" width="400" ></a><br/><br/>Choose a list of words in pdf format
+<a href="url"><img src="https://user-images.githubusercontent.com/38793982/67941745-88648780-fc00-11e9-914f-c8d7708a8d19.PNG" align="left" height="300" width="400" ></a> <a href="url"><img src="https://user-images.githubusercontent.com/38793982/67941949-e42f1080-fc00-11e9-8dec-faaded79d84e.PNG" align="left" height="300" width="400" ></a><br/><br/>
  </p>
-
+<p>Choose a list of words in pdf format</p>
 <p>
 <a href="url"><img src="https://user-images.githubusercontent.com/38793982/67941975-f90ba400-fc00-11e9-8018-bd8b48b2350b.PNG" align="left" height="300" width="400" ></a> <a href="url"><img src="https://user-images.githubusercontent.com/38793982/67942013-0c1e7400-fc01-11e9-9e5e-c3c9f5f6fb38.PNG" align="left" height="300" width="400" ></a><br/><br/>
  </p>
