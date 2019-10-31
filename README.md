@@ -2,7 +2,7 @@
 Fetching Barron's 333 words from pdf &amp; their mnemonics from mnemonicdictionary.com, marged them into CSV format
 
 ## Packages that you need to have to run this project
-  [or you can just simply download the excel sheet which has the all data you need]
+  [or you can just simply download the excel (*.xlsx) sheet which has the all data you need]
    1. tabula
    2. tabulate
    3. csv
