@@ -1,5 +1,5 @@
 # Barron's 333 words and their mnemonics
-Fetching Barron's 333 words from pdf &amp; their mnemonics from mnemonicdictionary.com, marged them into CSV format
+Fetched Barron's 333 words from pdf &amp; their mnemonics from mnemonicdictionary.com, marged them into CSV format
 
 ## Packages that you need to have to run this project
   [or you can just simply download the excel (*.xlsx) sheet which has the all data you need]
