@@ -23,7 +23,7 @@ Fetching Barron's 333 words from pdf &amp; their mnemonics from mnemonicdictiona
  </p>
  
  <p>
-<a href="url"><img src="https://user-images.githubusercontent.com/38793982/67943634-a16f3780-fc04-11e9-9966-9e76b59e6ae7.PNG" align="left" height="50" width="400" style="border:10px"></a> <a href="url"><img src="https://user-images.githubusercontent.com/38793982/67943634-a16f3780-fc04-11e9-9966-9e76b59e6ae7.PNG" align="left" height="5" width="400" vspace="50"></a><br/><br/>
+<a href="url"><img src="https://user-images.githubusercontent.com/38793982/67943634-a16f3780-fc04-11e9-9966-9e76b59e6ae7.PNG" align="left" height="50" width="400" style="border:10px"></a> <a href="url"><img src="https://user-images.githubusercontent.com/38793982/67943634-a16f3780-fc04-11e9-9966-9e76b59e6ae7.PNG" align="left" height="50" width="400" vspace="50"></a><br/><br/>
  </p>
  
  <p>
